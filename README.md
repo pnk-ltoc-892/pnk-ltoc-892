@@ -1,24 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-<div style="display: flex; align-items: flex-start; justify-content: end;">
-  <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
-  <br>
-  <br>
-  <div style="max-width: calc(100% - 420px);">
-    <p>🔭 I’m currently working on some Full Stack Projects</p>
-<!--     <p>👯 I’m looking for Job and Internships</p> -->
-    <p>🤝 I’m looking for companion to build some great projects</p>
-    <p>🌱 I’m currently learning Nextjs</p>
-<!--     <p>💬 Ask me about <b>DSA</b> / <b>MERN</b> stack</p> -->
-<!--     <p>👨‍💻 All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p> -->
-    <p>📫 Reach me at: <a href="mailto:pnkdtu892@gmail.com">pnkdtu892@gmail.com</a></p>
-  </div>
-</div>
-<br>
-<br>
-
----
 
 # 👋 Hey there, I'm Pankaj Singh!
 
