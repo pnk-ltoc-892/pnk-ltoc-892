@@ -12,18 +12,18 @@
 I'm a **Computer Science undergrad** at Delhi Technological University (DTU) working with **web development**, **AI agents**, and building **scalable systems**. I love turning complex problems into elegant, user-centric applications.
 
 - 💼 Frontend Developer Intern @ **InsightAI** (June–Aug 2025)
-- 🔭 Currently building: **Resolvr-AI** – Full Stack AI Agent Platform  
+- 🔭 Currently building: **Nodebase** – AI Workflow Automation Platform  
 - 🌱 Exploring: AI orchestration, Prompt Engineering, Serverless Workflows  
-- 💬 Ask me about: **MERN stack**, **Next.js**, **Node.js**, **Inngest**, **Cloudinary**, and **LLM APIs**
+- 💬 Ask me about: **MERN stack**, **Next.js**, **Node.js**, **Inngest**, **tRPC**, **Prisma** and **LLM APIs**
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🔹 [Resolvr-AI](https://github.com/your-username/resolvr-ai)
-> 🧠 AI Agent platform with ticket triaging, role-based access, Inngest-based orchestration, and Gemini LLM integration.
+### 🔹 [Nodebase](https://github.com/pnk-ltoc-892/nodebase)
+> 🧠 AI Workflow Automation Platform.
 
-### 🔹 [Unsocially](https://github.com/your-username/unsocially)
+### 🔹 [Unsocially](https://github.com/pnk-ltoc-892/unsocially)
 > 🔗 Full-stack social media app with authentication, posts, likes, Cloudinary media uploads, and scalable backend.
 
 ---
