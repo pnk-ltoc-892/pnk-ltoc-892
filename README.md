@@ -11,9 +11,12 @@
 
 I'm a **Computer Science undergrad** at Delhi Technological University (DTU) working with **web development**, **AI agents**, and building **scalable systems**. I love turning complex problems into elegant, user-centric applications.
 
+- 💼 Product Engineering Intern @ **Sprinklr** (June–July 2026)
+- 💼 Research Intern @ **DTU** (April–May 2026)
 - 💼 Frontend Developer Intern @ **InsightAI** (June–Aug 2025)
 - 🔭 Currently building: **Nodebase** – AI Workflow Automation Platform  
-- 🌱 Exploring: AI orchestration, Prompt Engineering, Serverless Workflows  
+- 🔭 Previously Worked On: **unsocially** – Social Media Platform  
+- 🌱 Exploring: AI orchestration, Webhooks, Prompt Engineering, Serverless Workflows  
 - 💬 Ask me about: **MERN stack**, **Next.js**, **Node.js**, **Inngest**, **tRPC**, **Prisma** and **LLM APIs**
 
 ---
@@ -27,15 +30,6 @@ I'm a **Computer Science undergrad** at Delhi Technological University (DTU) wor
 > 🔗 Full-stack social media app with authentication, posts, likes, Cloudinary media uploads, and scalable backend.
 
 ---
-
-## 📜 Experience
-
-### 💼 InsightAI (Frontend Developer Intern) – Noida, India  
-**June 2025 – August 2025**
-
-- Migrated website from React to Next.js → 40% faster load, 25% SEO boost  
-- Implemented **RBAC** to reduce bugs by 30% and improve security  
-- Enhanced data access compliance for internal privacy standards
 
 ---
 ## 💻 🚀 Tech Stack
